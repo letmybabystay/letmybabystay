@@ -15,8 +15,4 @@ I enjoy the challenge behind understanding code, systems, and working on project
 
 ---
 
-No features projects yet... :(
-
----
-
-I hope future code I write will benefit people.
+No featured projects yet... :(
