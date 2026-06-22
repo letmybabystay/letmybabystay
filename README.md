@@ -1,4 +1,4 @@
-# Hi, I'm Reshi 👋
+# Hi, I'm Reshi
 
 I am a Systems and Software developer who loves working on games, low-level systems, and full-stack development. I have been enthusiastically working with computers since I was 9.
 
