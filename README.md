@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Reshi 👋
 
-<!--
-**letmybabystay/letmybabystay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Systems and Software developer who loves working on games, low-level systems, and full-stack development. I have been enthusiastically working with computers since I was 9.
 
-Here are some ideas to get you started:
+I enjoy the challenge behind understanding code, systems, and working on projects. I code as a hobby in my free-time, as I feel it is a good way to express myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & Tools
+
+*   **Languages:** C++, Lua, JavaScript (Node.js), Java, Python, GDScript
+*   **Frameworks & Backends:** Node.js (Express), FastAPI, MongoDB, SQLite
+*   **Engines & Tools:** Unreal Engine, Godot, Git/GitHub, Linux (VPS Administration)
+*   **Core Concepts:** Low-level memory management, data serialization, binary file parsing, finite state machines (FSM)
+
+---
+
+No features projects yet... :(
+
+---
+
+I hope future code I write will benefit people.
